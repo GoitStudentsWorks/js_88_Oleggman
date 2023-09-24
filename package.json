@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/project-NightCoders-TastyTreats/",
+    "build": "vite build --base=/js_88_Oleggman/",
     "preview": "vite preview"
   },
   "devDependencies": {
